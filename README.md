@@ -30,8 +30,8 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video walkthrough of the implemented features:
+https://github.com/luzierivera/Hello-Squirrel-LR/blob/Luz-Rivera/Video.mov
 
-[Recording 2026-09-27 232304.mp4](../../Downloads/Recording%202026-09-27%20232304.mp4)
 # AND101 Project 1 - Hello, Squirrel!
 
 Submitted by: **Luz Rivera Mayor**
